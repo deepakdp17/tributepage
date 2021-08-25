@@ -1,0 +1,60 @@
+body{
+	text-align: center;
+	font-size: 1.2rem;
+}
+#main{
+	padding: 15px;
+	background: rgb(216, 213, 213);
+	border-radius: 20px;
+	margin: 30px 8px;
+}
+#img-div{
+	background: white;
+	padding: 10px;
+	margin: 0;
+}
+
+#image{
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+}
+
+#img-caption{
+	margin:15px 0 5px 0;
+}
+
+h2{
+	margin: 30px 100px 30px 100px;
+}
+
+#tribute-info{
+	font-family:- sans-serif;
+	line-height: 1.5;
+	text-align: center;
+	color: #333;
+}
+
+#headline{
+	margin: 50px 0;
+	text-align: center;
+}
+
+ul{
+	max-width: 900px;
+    margin: 0 auto 50px auto;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+li{
+	margin: 16px 0;
+}
+
+a:visited {
+    color:#477ca7;
+}
+a:hover{
+	color:rgb(7, 7, 177);
+}
